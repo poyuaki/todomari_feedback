@@ -12,6 +12,9 @@
 - help : 使い方に関する内容
 - request : 要望に関する内容
 
+## 開発状況
+開発状況は<a href="https://github.com/users/poyuaki/projects/3">とどまりのProjects</a>で見ることができます。
+
 ## テスター募集中
 現在とどまりは開発版です。以下の内容に同意していただき、<a href="https://twitter.com/m0k1m0k1">開発者のTwitter</a>のDMより開発版を使用したい旨を伝えれば、とどまりのURLを送ります。
 ### 注意事項
