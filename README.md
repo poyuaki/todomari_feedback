@@ -12,6 +12,21 @@
 - help : 使い方に関する内容
 - request : 要望に関する内容
 
+## テンプレ
+
+```
+# 内容
+ここに内容を記述
+
+# 使用ブラウザ・機器
+必要に応じて。バグの場合は記述してもらえると助かります
+
+# 発生条件
+バグの場合。なるべく詳しく記述してください
+```
+
+詳しくは<a href="https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa">MarkDownチートシート</a>をご覧ください。
+
 ## 開発状況
 開発状況は<a href="https://github.com/users/poyuaki/projects/3">とどまりのProjects</a>で見ることができます。
 
